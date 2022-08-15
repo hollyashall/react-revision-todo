@@ -1,0 +1,16 @@
+
+.Nav{
+  // background-color: pink;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+  
+
+}
+.Nav__button{
+  background-color: white;
+  padding: 0.5rem;
+  border-radius: 10px;
+  
+}
