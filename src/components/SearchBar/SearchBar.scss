@@ -1,8 +1,22 @@
 .SearchBar{
   margin: 1rem 0;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: 0.5rem;
+  // gap: 1.5rem;
+  height: 10rem;
+  width:20rem;
+  
+  .SearchBar__input{
+width: 20rem;
+height:3rem;
+border-radius: 0.5rem;
+  }
+
+  .searchBar__button{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 0.5rem;
+  }
 }

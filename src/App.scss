@@ -3,5 +3,14 @@
   padding: 1.5rem;
   justify-content: center;
   align-items: center;
+  // width:100rem;
+  display: flex;
+flex-direction: column;
+
+  .list{
   
+    
+    align-items: center;
+    justify-content: center;
+  }
 }
