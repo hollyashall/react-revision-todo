@@ -2,7 +2,7 @@
   "name": "react-revision",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hollyashall.github.io/react-revision",
+  "homepage": "https://hollyashall.github.io/react-revision-todo",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
     "@fortawesome/free-solid-svg-icons": "^6.1.2",
